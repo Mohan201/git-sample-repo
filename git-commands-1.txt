@@ -1,0 +1,5 @@
+git init -->GIT Repository file
+git config user.name "Your Name"-->Specify the username
+git config user.email "you@example.com"
+git add *
+git commit -m "some init msg"
