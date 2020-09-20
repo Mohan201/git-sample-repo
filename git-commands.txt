@@ -3,3 +3,49 @@ git config user.name "Your Name"
 git config user.email "you@example.com"
 git add *
 git commit -m "some init msg"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privatebranch1
+|
+|
+|
+AbC---->Merge the file to Privatebranch2
