@@ -25,4 +25,10 @@ Person B -> Pull from master to private branch, merge code to master
 
 Scenario 3:
 1 Person -> Two different features
-Work on different branches
+
+Privatebranch1
+|
+|
+|
+AbC---->Merge the file to Privatebranch2
+
